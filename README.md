@@ -1,4 +1,4 @@
-# Olá! sou Diego Rosa😁👋
+# Olá! sou Diego Rosa
 🔧 O que eu faço:
 
 Desenvolvimento de Software: De aplicações web a automações sofisticadas, adoro transformar ideias em soluções reais.
