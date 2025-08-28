@@ -27,10 +27,10 @@
 </details>
 
 ## Estatísticas GitHub
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiegoRosa)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yInvictus1)
 
-![DiegoRosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoRosa&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoRosa&layout=compact&theme=dracula)
+![DiegoRosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yInvictus1&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yInvictus1&layout=compact&theme=dracula)
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/rdiegosilva)
