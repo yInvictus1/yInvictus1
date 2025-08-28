@@ -29,11 +29,13 @@
 ## Estatísticas GitHub
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiegoRosa)
 
-![DiegoRosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoRosa&show_icons=true&theme=dracula)
+![DiegoRosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoRosa&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoRosa&layout=compact&theme=dracula)
 
 ## Contato
-- LinkedIn: www.linkedin.com/in/rdiegosilva  
-- Email: Diegodg22@outlook.com 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/rdiegosilva)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:diegodg22@outlook.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-site.com)
 
 ---
-*"A tecnologia move o mundo, mas são as pessoas que a transformam em algo incrível."*  
+*"A tecnologia move o mundo, mas são as pessoas que a transformam em algo incrível."*
