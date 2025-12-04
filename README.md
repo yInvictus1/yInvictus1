@@ -10,8 +10,7 @@
   <a href="https://seu-site.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Transformando+dados+em+insights;Construindo+modelos+de+Machine+Learning;Apaixonado+por+Inteligência+Artificial;Explorando+o+poder+dos+dados" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Transformando+dados+em+insights;Construindo+modelos+de+Machine+Learning;Apaixonado+por+Intelig%C3%AAncia+Artificial;Explorando+o+poder+dos+dados" alt="Typing SVG" />
 </div>
 
 ---
