@@ -111,12 +111,6 @@ Sou um **entusiasta de dados e inteligência artificial** em constante evoluçã
 
 ---
 
-## 🏆 Troféus do GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yInvictus1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
 ---
 
 ## 💡 O Que Me Move
