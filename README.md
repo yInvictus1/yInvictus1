@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rdiegosilva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:diegodg22@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://seu-site.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="[https://seu-site.com](https://yinvictus1.github.io/Curriculum/)"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Transformando+dados+em+insights;Construindo+modelos+de+Machine+Learning;Apaixonado+por+Intelig%C3%AAncia+Artificial;Explorando+o+poder+dos+dados" alt="Typing SVG" />
