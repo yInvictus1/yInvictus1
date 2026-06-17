@@ -177,7 +177,7 @@ Estou sempre aberto a discutir sobre **Data Science**, **Machine Learning** e op
 
 **📧 Email:** diegodg22@outlook.com  
 **💼 LinkedIn:** [/rdiegosilva](https://www.linkedin.com/in/rdiegosilva)  
-**🌐 Portfolio:** [Visite meu site](https://seu-site.com)
+**🌐 Portfolio:** [Visite meu site](https://yinvictus1.github.io/Curriculum/)
 
 </div>
 
