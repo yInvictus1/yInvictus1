@@ -81,12 +81,13 @@ Sou um **entusiasta de dados e inteligência artificial** em constante evoluçã
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yInvictus1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yInvictus1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yInvictus1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&cache_seconds=1800"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yInvictus1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yInvictus1&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.vercel.app?user=yInvictus1&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -106,9 +107,8 @@ Sou um **entusiasta de dados e inteligência artificial** em constante evoluçã
 ## 📈 Gráfico de Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yInvictus1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yInvictus1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" alt="Contribution Graph"/>
 </div>
-
 ---
 
 ---
